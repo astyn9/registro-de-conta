@@ -1,0 +1,87 @@
+/* mudei a cor do background. */
+body{background-color: gainsboro}
+/*Alinhamento, bordas da caixa, cor do background, tamanho da caixa. */
+.caixa{width:500px;
+height: 700px;
+background-color:white;
+margin: 60px;
+border-radius: 9px;
+margin-top: 0px;
+position: relative;}
+/*Alinhamento, e fonte*/
+.l1{ padding: 40px;
+margin-bottom:-60px;
+font-size:25px;
+font-family: Arial, Helvetica, sans-serif;
+}
+/*Alinhamento, fonte e espessura da fonte  */
+.l2{padding: 40px;
+margin-top: -50px;
+padding-left: 40px;
+font-family: Arial;
+font-weight: 600;
+    }
+/*Alinhamento, fonte e espessura da fonte  */
+.l3{padding: 40px;
+margin-top: -30px;
+padding-left: 40px;
+font-family: Arial;
+font-weight: 600;}
+/*Alinhamento, fonte e espessura da fonte  */
+.l4{padding: 40px;
+margin-top: -30px;
+padding-left: 40px;
+font-family: Arial;
+font-weight: 600;}
+/*Alinhamento, fonte e espessura da fonte  */
+.l5{padding: 40px;
+margin-top: -30px;
+padding-left: 40px;
+font-family: Arial;
+font-weight: 600;}
+/*Alinhamento, fonte e espessura da fonte  */
+form{padding: 40px;
+padding-left: 40px;
+font-family: Arial;
+font-weight: 600;}
+ /*Alinhamento, a posição, a borda da caixa, o canto das caixas.    */    
+.place input[type=text]{
+position: absolute;
+padding:15px 82px;
+margin:-35px 40px;
+border-radius: 10px;
+border-style: solid;
+border-width: 1px;
+}
+/*Alinhamento, a posição, a borda da caixa, o canto das caixas. */   
+ .place input[type=password]{
+position: absolute;
+padding:15px 82px;
+margin:-35px 40px;
+border-radius: 10px;
+border-style: solid;
+border-width: 1px;}   
+/*Alinhamento, posição, cor, background da cor, fonte, bordas e o canto das bordas.*/   
+button{position: absolute; 
+padding: 15px 92px;
+margin: -35px 45px;
+background-color: rgb(224, 144, 24);
+color: white;
+border-radius: 10px;
+font-family: Arial;
+font-weight: 600;
+border-style: solid;
+border-width: 0px;}
+
+/*Alinhamento */   
+form{padding: 35px 92px;
+margin-left:-50px;
+}
+/*Alinhamento */  
+form input [type=checkbox]{
+margin-bottom: 100px;}
+/*Alinhamento, cor, tirei o traço do link */  
+a{color: grey;
+margin-left:130px;
+text-decoration: none;
+}
